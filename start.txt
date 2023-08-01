@@ -1,2 +1,6 @@
 Test GIt quick start demo
+<<<<<<< HEAD
 start
+=======
+modif
+>>>>>>> title-change
