@@ -1,7 +1,2 @@
 
-<<<<<<< HEAD
 start
-=======
-modif
->>>>>>> title-change
-
